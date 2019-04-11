@@ -28,7 +28,7 @@ kramdown:
 # Site owner
 owner:
   name: Jonghyun Lee
-  avatar: 
+  avatar: "avatar.png"
   bio: "Graduate Program in Cognitive Science, Yonsei University"
   email: jonghyunlee1993@gmail.com
   disqus-shortname: 
