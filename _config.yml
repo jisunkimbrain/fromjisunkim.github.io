@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Tessa Pierce
-locale:           San Diego, CA
+title:            Jonghyun Lee
+locale:           Seoul, Republic of Korea
 #url:              bluegenes.github.io
-url:              //bluegenes.github.io
+url:              //jonghyunlee1993.github.io
 
 
 # Jekyll configuration
@@ -27,12 +27,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Tessa Pierce
-  avatar: me_fixing_mseas_camera_cropped.jpg
-  bio: "NSF Postdoc in dib-lab at UC Davis"
-  email: ntpierce@gmail.com
-  disqus-shortname: tess
-  twitter: saltyscientist
+  name: Jonghyun Lee
+  avatar: 
+  bio: "Graduate Program in Cognitive Science, Yonsei University"
+  email: jonghyunlee1993@gmail.com
+  disqus-shortname: 
+  twitter: 
   facebook: #username
   google:
     plus: #username
@@ -41,7 +41,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: bluegenes
+  github: jonghyunlee1993
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
