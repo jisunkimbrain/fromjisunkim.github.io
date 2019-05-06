@@ -6,8 +6,7 @@ modified: 2017-01-17
 tags: [about]
 ---
 
-cv
-
+[Download My CV](jonghyunlee1993.github.io/cv/Jonghyun_CV.docx)
 
 
 
