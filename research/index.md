@@ -37,10 +37,15 @@ image:
 ## Skills and Qualifications
 ### Relevant Programming Skills
 	MATLAB: DPABI(DPARSF), Spider, BASCO, GraphVar, BrainNet Veiwer, EEGlab
+
 	Python: TensorFlow, Matplotlib, Numpy, Pandas, Scikit-learn, , Selenium, NetworkX, NLTK
+
 	R: Lme4, Stan
+
 	Neuro Imaging Software: SPM8/12, FSL, AFNI, Freesurfer, Nilearn, fMRIPrep, PySurfer, Pycortex
+
 	Statistical Software: SPSS, JASP
+
 	Other Tools: Philips MRI Console, SimNIBS, ASHS, Gephi, Bash Shell Scripting, Unity, Arduino, Raspberry Pi
 
 
