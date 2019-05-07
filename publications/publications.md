@@ -23,8 +23,8 @@ Oh, J., Lee, J., Lee, S., & Han, S., Exploring the functional connectivity patte
 
 
 ## Poster Presentation
-Lee, J., Lee, H., Ahn, J., Min, S., Lee, S., & Han, S., Exploring the high-resolution EPI fRMI protocol to reduce susceptibility-related BOLD signal dropout, OHBM 24th annual meeting, 2018.06, Singapore. 
+Lee, J., Lee, H., Ahn, J., Min, S., Lee, S., & Han, S., Exploring the high-resolution EPI fRMI protocol to reduce susceptibility-related BOLD signal dropout, OHBM 24th annual meeting, 2018.06, Singapore. [View](/publications/OHBM_2018_Lee.pdf)
 
-Min, S., Jun, S., Ahn, J., Lee, J., Park, S., Lee, S., & Han, S., Intrinsic functional connectivity in emotion regulation network is altered in emotional laborers, Neuroscience 48th annual meeting, 2018.11, San Diego: USA. 
+Min, S., Jun, S., Ahn, J., Lee, J., Park, S., Lee, S., & Han, S., Intrinsic functional connectivity in emotion regulation network is altered in emotional laborers, Neuroscience 48th annual meeting, 2018.11, San Diego: USA. [View](/publications/SfN_2018_Min.pdf)
 
-Ahn, J., Jun, S., Lee, S., Min, S., Lee, S., Park, S., & Han, S., Altered Emotional Attention and Brain Functional Connectivity Networks of Emotional Laborers, Neuroscience 48th annual meeting, 2018.11, San Diego: USA.
+Ahn, J., Jun, S., Lee, S., Min, S., Lee, S., Park, S., & Han, S., Altered Emotional Attention and Brain Functional Connectivity Networks of Emotional Laborers, Neuroscience 48th annual meeting, 2018.11, San Diego: USA. [View](/publications/SfN_2018_Ahn.pdf)
