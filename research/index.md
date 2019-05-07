@@ -80,7 +80,7 @@ image:
 
 ### Relevant Coursework Taken
 *	Undergraduate School
-  - Psychology of Cognitive Engineering, Psychology of Learning & Memory, Introduction to Cognitive Neuroscience, Experimental Methodology in Psychology, Cognitive Psychology, Psychological Statistics
+    - Psychology of Cognitive Engineering, Psychology of Learning & Memory, Introduction to Cognitive Neuroscience, Experimental Methodology in Psychology, Cognitive Psychology, Psychological Statistics
 
 *	Graduate School
-  - Topics in Cognitive Science, Psychological Science Colloquim, Machine Learning and Its Application, Neuroscience of Memory & Decision-Making Seminar, Memory and Decision-Making Seminar, Cognitive Modeling Seminar, Principles and Applications of Neuroimaging, Neurophysiology, Advanced Computer Vision, Principles of Psychophysiology, Advanced Topics in Pattern Recognition , Online Data collections and Analysis (audit), Medical Image Processing (audit)
+    - Topics in Cognitive Science, Psychological Science Colloquim, Machine Learning and Its Application, Neuroscience of Memory & Decision-Making Seminar, Memory and Decision-Making Seminar, Cognitive Modeling Seminar, Principles and Applications of Neuroimaging, Neurophysiology, Advanced Computer Vision, Principles of Psychophysiology, Advanced Topics in Pattern Recognition , Online Data collections and Analysis (audit), Medical Image Processing (audit)
