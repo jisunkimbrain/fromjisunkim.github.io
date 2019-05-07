@@ -40,5 +40,5 @@ image:
 ### Yonsei University, Institute of Convergence Science, Seoul, Korea
 #### Mar 2018 - Present
 - ENCOMPASS Team
-    -	Principal Investigator: Dr. Sang Yup Lee (Affiliated with Department Mass Media)
+    -	Principal Investigator: Dr. Sang Yup Lee (Affiliated with Department of Media Communication)
     -	Developed model to predict human characteristic using social network service personal photos or text
